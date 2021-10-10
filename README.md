@@ -1,3 +1,3 @@
-# Bot-Skylark
-Skylark bot
-subcribe hazimkn
+# Gura-Bot
+Gura Bot
+subcribe KenzaGanzz
